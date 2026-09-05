@@ -2,7 +2,7 @@
 
 **SAMVAD AI** is an intelligent web-based chatbot designed to bridge the gap between citizens and government services. By providing clear, accessible, and automated assistance, SAMVAD AI helps users easily navigate, search for, and understand various public schemes and government services.
 
-🌐 **Live Demo:** [samvaad-government-assistant.vercel.app](https://samvaad-government-assistant.vercel.app/)
+🌐 **Live Link :** [samvaad-government-assistant.vercel.app](https://samvaad-government-assistant.vercel.app/)
 
 ---
 
